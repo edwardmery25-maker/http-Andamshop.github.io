@@ -937,7 +937,7 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product One
+                        brain with average IQ
                     </h3>
 
 
@@ -947,7 +947,7 @@
 
 
                     <div class="price">
-                        29,900 تومان
+                        29,900 $
                     </div>
 
 
@@ -982,17 +982,17 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product Two
+                        heart for your lover
                     </h3>
 
 
                     <p class="product-description">
-                        Very useful. Probably.
+                        give her a real heart.
                     </p>
 
 
                     <div class="price">
-                        39,900 تومان
+                        39,900 $
                     </div>
 
 
@@ -1031,17 +1031,17 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product Three
+                        too rude to say
                     </h3>
 
 
                     <p class="product-description">
-                        You missed your chance.
+                        why is it so popular?
                     </p>
 
 
                     <div class="price">
-                        49,900 تومان
+                        49,900 $
                     </div>
 
 
@@ -1076,7 +1076,7 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product Four
+                        perfect for alcoholics.
                     </h3>
 
 
@@ -1086,7 +1086,7 @@
 
 
                     <div class="price">
-                        59,900 تومان
+                        59,900 $
                     </div>
 
 
@@ -1121,17 +1121,17 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product Five
+                        I promise you that's healthy.
                     </h3>
 
 
                     <p class="product-description">
-                        Surprisingly expensive.
+                        If you keep smoking:
                     </p>
 
 
                     <div class="price">
-                        69,900 تومان
+                        69,900 $
                     </div>
 
 
@@ -1166,7 +1166,7 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product Six
+                        Brown eye.
                     </h3>
 
 
@@ -1176,7 +1176,7 @@
 
 
                     <div class="price">
-                        79,900 تومان
+                        7,900 $
                     </div>
 
 
@@ -1211,7 +1211,7 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Product Seven
+                        2 of them.
                     </h3>
 
 
@@ -1221,7 +1221,7 @@
 
 
                     <div class="price">
-                        89,900 تومان
+                        89,900 $
                     </div>
 
 
@@ -1239,4 +1239,4 @@
 
 
 
-            <!-- PRODUCT 8 -
+        
