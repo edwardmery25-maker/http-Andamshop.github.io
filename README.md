@@ -610,7 +610,6 @@ footer p {
 
         <div class="product">
 
-
             <div class="product-image-container">
 
                 <img
@@ -618,34 +617,37 @@ footer p {
                     alt="Product 3"
                     class="product-image">
 
+                <span class="sold-badge">
+                    SOLD OUT
+                </span>
+
             </div>
 
             <div class="product-info">
 
                 <h3 class="product-title">
-                    نگاهی تازه
+                    خیلی بی تربیته نمیشه گفت
                 </h3>
 
                 <p class="product-description">
-                    برای دوستداران
+                    چرا باید کسی اینو بخره
                 </p>
 
                 <div class="price">
-                  79,000 تومان
+                    49,900 تومان
                 </div>
 
                 <button
-                    class="buy-button"
-                    onclick="showMessage('به‌عنوان یه مدافع حقوق حیوانات، همچین کار غیرانسانی‌ای رو نمی‌ذارم بکنی. 🐦‍⬛‼️❌')">
+                    class="buy-button sold-button"
+                    onclick="showMessage('این یکی هم فروخته شده. واقعاً سریع خرید می‌کنید.')">
 
-                    خرید
+                    SOLD OUT
 
                 </button>
 
             </div>
 
         </div>
-
 
 
         <!-- PRODUCT 4 -->
@@ -739,38 +741,33 @@ footer p {
                     alt="Product 6"
                     class="product-image">
 
-                <span class="sold-badge">
-                    SOLD OUT
-                </span>
-
             </div>
 
             <div class="product-info">
 
                 <h3 class="product-title">
-                    خیلی بی تربیته نمیشه گفت
+                    نگاهی تازه
                 </h3>
 
                 <p class="product-description">
-                    چرا باید کسی اینو بخره
+                    برای دوستداران
                 </p>
 
                 <div class="price">
-                    49,900 تومان
+                    79,900 تومان
                 </div>
 
                 <button
-                    class="buy-button sold-button"
-                    onclick="showMessage('این یکی هم فروخته شده. واقعاً سریع خرید می‌کنید.')">
+                    class="buy-button"
+                    onclick="showMessage('به‌عنوان یه مدافع حقوق حیوانات، همچین کار غیرانسانی‌ای رو نمی‌ذارم بکنی. 🐦‍⬛‼️❌')">
 
-                    SOLD OUT
+                    خرید
 
                 </button>
 
             </div>
 
         </div>
-
 
 
         <!-- PRODUCT 7 -->
