@@ -1017,13 +1017,9 @@
                 <div class="product-image-container">
 
                     <img
-                        src="product3.jpg"
-                        alt="Product 3"
+                        src="product6.jpg"
+                        alt="Product 6"
                         class="product-image">
-
-                    <span class="sold-badge">
-                        SOLD OUT
-                    </span>
 
                 </div>
 
@@ -1031,32 +1027,31 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        too rude to say
+                        Brown eye.
                     </h3>
 
 
                     <p class="product-description">
-                        why is it so popular?
+                        We think it's useful.
                     </p>
 
 
                     <div class="price">
-                        49,900 $
+                        7,900 $
                     </div>
 
 
                     <button
-                        class="buy-button sold-button"
-                        onclick="showMessage('این یکی هم فروخته شده. واقعاً سریع خرید می‌کنید.')">
+                        class="buy-button"
+                        onclick="showMessage('به‌عنوان یه مدافع حقوق حیوانات، همچین کار غیرانسانی‌ای رو نمی‌ذارم بکنی. 🐦‍⬛‼️❌')">
 
-                        SOLD OUT
+                        خرید
 
                     </button>
 
                 </div>
 
             </div>
-
 
 
             <!-- PRODUCT 4 -->
@@ -1156,9 +1151,13 @@
                 <div class="product-image-container">
 
                     <img
-                        src="product6.jpg"
-                        alt="Product 6"
+                        src="product3.jpg"
+                        alt="Product 3"
                         class="product-image">
+
+                    <span class="sold-badge">
+                        SOLD OUT
+                    </span>
 
                 </div>
 
@@ -1166,25 +1165,25 @@
                 <div class="product-info">
 
                     <h3 class="product-title">
-                        Brown eye.
+                        too rude to say
                     </h3>
 
 
                     <p class="product-description">
-                        We think it's useful.
+                        why is it so popular?
                     </p>
 
 
                     <div class="price">
-                        7,900 $
+                        49,900 $
                     </div>
 
 
                     <button
-                        class="buy-button"
-                        onclick="showMessage('به‌عنوان یه مدافع حقوق حیوانات، همچین کار غیرانسانی‌ای رو نمی‌ذارم بکنی. 🐦‍⬛‼️❌')">
+                        class="buy-button sold-button"
+                        onclick="showMessage('این یکی هم فروخته شده. واقعاً سریع خرید می‌کنید.')">
 
-                        خرید
+                        SOLD OUT
 
                     </button>
 
@@ -1193,7 +1192,7 @@
             </div>
 
 
-
+            
             <!-- PRODUCT 7 -->
 
             <div class="product">
